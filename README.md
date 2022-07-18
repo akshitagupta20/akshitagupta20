@@ -4,8 +4,12 @@
 - 🌱 I’m currently working with Machine learning and Web Development.
 - 👯 I’m looking to collaborate on projects and hackathons.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/akshita-gupta-957587194/" title="Learn Markdown">LinkedIn</a>
+<br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta20)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagupta20&layout=compact)
+
+
 
 
 
